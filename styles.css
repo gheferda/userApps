@@ -1,0 +1,12 @@
+body {
+  
+}
+.usersTr {
+  border-bottom: 1px solid #e1dfdf;
+}
+.usersTr:nth-child(odd) {
+  background-color: #eef0f1;
+}
+table tbody tr:nth-child(even) {
+  /* background-color: #cad1d5; */
+}
